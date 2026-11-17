@@ -264,9 +264,7 @@ Built-in protections:
 - Replay slows down when tracking error grows and aborts beyond 6 mm / 5 deg.
 - Zero velocity is published on every exit path.
 
-## Stage 2
 
-Not attempted. This repository covers Stage 1 only.
 
 ## Credits
 
