@@ -1,0 +1,12 @@
+log,direction,result,run_s,e_mean_mm,e_max_mm,e_max_deg,touches,success
+replay_20261116_153942.csv,fwd,done,89.6,0.65,4.14,1.42,0,True
+replay_20261116_161148.csv,fwd,done,83.9,0.44,3.38,1.16,16,False
+replay_20261117_221541.csv,fwd,done,97.4,0.53,3.37,1.06,0,True
+replay_20261117_223942.csv,fwd,done,63.7,0.68,4.65,1.32,0,True
+replay_rev_20261116_153418.csv,rev,done,173.7,0.28,1.82,0.54,0,True
+replay_rev_20261116_154234.csv,rev,not started,,,,,,False
+replay_rev_20261116_160830.csv,rev,done,89.5,0.66,3.48,1.34,32,False
+replay_rev_20261116_163836.csv,rev,done,173.7,0.29,1.94,0.48,0,True
+replay_rev_20261117_221203.csv,rev,done,190.6,0.22,1.63,0.38,0,True
+replay_rev_20261117_223124.csv,rev,abort,1.8,1.27,3.16,4.9,0,False
+replay_rev_20261117_223732.csv,rev,done,62.6,0.68,4.48,1.35,0,True

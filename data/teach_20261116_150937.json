@@ -1,0 +1,33 @@
+{
+  "tip_link": "rq_tool_tip",
+  "tip_offset_m": [
+    0.0,
+    0.0,
+    0.095
+  ],
+  "joints": [
+    "joint1",
+    "joint2",
+    "joint3",
+    "joint4",
+    "joint5",
+    "joint6"
+  ],
+  "rate_hz": 100.0,
+  "speeds": [
+    [
+      0.005,
+      0.03
+    ],
+    [
+      0.01,
+      0.06
+    ],
+    [
+      0.02,
+      0.1
+    ]
+  ],
+  "dry_run": false,
+  "started": "20261116_150937"
+}

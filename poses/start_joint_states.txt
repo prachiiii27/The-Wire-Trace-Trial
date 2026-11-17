@@ -1,0 +1,37 @@
+A message was lost!!!
+	total count change:1
+	total count: 1---
+header:
+  stamp:
+    sec: 1794743641
+    nanosec: 758457845
+  frame_id: base_link
+name:
+- joint2
+- joint6
+- joint3
+- joint5
+- joint1
+- joint4
+position:
+- -0.0800739
+- -1.02844
+- -0.123052
+- 0.0672573
+- -0.165382
+- -1.46331
+velocity:
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+- 0.000107803
+- 0.0
+effort:
+- -20.2095
+- 1.09887
+- 15.0619
+- -0.100412
+- 4.64516
+- -1.48317
+---
